@@ -1,0 +1,5 @@
+ANOTATIONS #################
+AWS SDK - AWS SOFTWARE DEVELOPMENT KIT - LANGUAGE FOR API - SET OF LIBRARIES
+IAM CREDENTIAL REṔORT (ACCOUNT-LEVEL) -lista todos os usuarios das suas contas e o status das credenciais
+IAM ACCESS ADVISOR (USER-LEVEL) - Mostra todas as permissoes concedidas para um usuario e quando esses servicços foram acessados pela ultima vez( revisão de politicas)
+1 unico user pode co-existir em grupos de usuarios diferentes 

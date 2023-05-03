@@ -1,0 +1,5 @@
+user	arn	user_creation_time	password_enabled	password_last_used
+<root_account>	arn:aws:iam::008586735167:root	2023-04-10T20:58:05+00:00	not_supported	2023-05-03T14:59:19+00:00
+fabio_alves	arn:aws:iam::008586735167:user/fabio_alves	2023-04-18T12:10:39+00:00	TRUE	2023-04-18T12:23:14+00:00
+laiane_costa	arn:aws:iam::008586735167:user/laiane_costa	2023-04-18T12:12:55+00:00	TRUE	2023-05-02T16:45:41+00:00
+system_admins	arn:aws:iam::008586735167:user/system_admins	2023-04-18T12:02:53+00:00	TRUE	2023-05-02T16:44:03+00:00
